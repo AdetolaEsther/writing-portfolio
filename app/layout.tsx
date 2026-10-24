@@ -3,7 +3,7 @@ import "./globals.css";
 import { fontVariables } from "./font";
 
 export const metadata: Metadata = {
-  title: "Adetola Esther Aderibigbe | Writer",
+  title: "Adetola Esther Aderibigbe | Writer/Software Engineer",
   description:
     "Personal essays, stories, and technical writing by Adetola Esther Aderibigbe.",
 };
