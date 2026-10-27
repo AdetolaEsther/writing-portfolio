@@ -31,7 +31,7 @@ export default function About() {
   <div className="border-4 border-double border-[#141414] p-6 text-center">
     <div className="relative mx-auto h-40 w-40 overflow-hidden rounded-full border border-[#141414]">
       <Image
-        src="/Gemini_Generated_Image_1ofgvy1ofgvy1ofg.png"
+        src="/me1.PNG"
         alt="Adetola Esther Aderibigbe"
         fill
         priority
